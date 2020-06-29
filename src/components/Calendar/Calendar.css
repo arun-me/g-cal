@@ -1,0 +1,7 @@
+#Calendar{
+	width: 80%;
+	float: right;
+	height: 100vh;
+	overflow: auto;
+	background-color: red;
+}

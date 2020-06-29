@@ -1,0 +1,10 @@
+#Header{
+	display: flex;
+	background-color: lightblue;
+	justify-content: space-around;
+}
+#Header ul li{
+	list-style-type: none;}
+#Header ul{
+	display: flex;
+}
