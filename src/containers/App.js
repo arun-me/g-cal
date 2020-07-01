@@ -10,7 +10,7 @@ function App() {
   return (
     <div id="App">
       <Header/>
-      <div>
+      <div classname='container'>
         <Scroll>
           <Events/>
         </Scroll>

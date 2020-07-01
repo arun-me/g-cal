@@ -1,5 +1,7 @@
-#Events {
-/*     background-color: purple;
-     color:blue;
-*/
+#Events{	
+	display: flex;
+	flex-flow: column wrap;
+}
+#Events h2{
+	background-color: green;
 }

@@ -5,4 +5,5 @@
 	height:45vh;
 	float :left;
 	width:20%;
+	scroll-behavior: smooth;
 }

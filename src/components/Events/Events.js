@@ -4,7 +4,7 @@ import './Events.css';
 function Events() {
   return (
     <div id="Events">
-	    <h2>Events:</h2><br/>
+	    <h2>Events:</h2><br/><br/>
 	    <h3>Date</h3><br/>
 	    <ul>
 	    <li>list 1</li>

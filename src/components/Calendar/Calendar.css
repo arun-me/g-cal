@@ -1,7 +1,8 @@
-/*#Calendar{
-	width: 75%;
+#Calendar{
+	width: 79%;
 	float: right;
-	height: 100vh;
+	height: 92.5vh;
+	border:2px solid green;
 	overflow: auto;
 	background-color: red;
-}*/
+}
